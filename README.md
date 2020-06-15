@@ -42,18 +42,12 @@
 
 <h2>A funny story</h2>
 
-<p>I will come up with smth</p>
+<p>I can't think of a funny story right now... my life is funny in general, but I am very forgetful. That's probably why I can't come up with a funny story now. That sometimes creates funny situations, and my friends sometimes make fun of this.</p>
 
-<h3>TL;DR (even smaller header, under funny story)</h3>
+<h3>TL;DR</h3>
 
-<p>Summarise your funny story in one short sentence.</p>
-
-
+<p>I forgot my funny story, end of story.</p>
 
 
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
 
-The links should have the following structure:
-
-<< previous || YOUR NAME || next >>
+<< previous || Kim Delbarre || next >>
