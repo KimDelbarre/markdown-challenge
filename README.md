@@ -8,13 +8,6 @@
 
 ## "I am mad but I'm magic"
 
-| Birthday            | 10/11            |
-| ------------------- | ---------------- |
-| Favorite color      | red              |
-| Favorite food       | spicy            |
-| Pinneapple on pizza | \- [x]yes please |
-
-
 <table>
   <tr>
     <th>Birthday</th>
