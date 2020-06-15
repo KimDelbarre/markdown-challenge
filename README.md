@@ -3,7 +3,7 @@
 <blockquote>
 	<p><em>Do something today that your future self will thank you for</em></p>
 
-<img src="https://github.com/KimDelbarre/markdown-challenge/blob/master/ProfPic15052020.jpg" width="400">
+<img src="https://github.com/KimDelbarre/markdown-challenge/blob/master/ProfPic15052020.jpg" width="350">
 
 <h2>"I am mad but I'm magic"</h2>
 
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td>- [x]yes please</td>
+    <td><ul><li>[ ] Yes please</li><li>[x] No</li></ul>/td>
   </tr>
 </table>
 
