@@ -34,6 +34,7 @@
 	</ul></li>
 	<li>Plant care in my urban jungle</li>
 	<li>Being out in (wild) nature </li>
+	<li>Sleeping</p>
 </ul>
 
 <h2>You can always count on me when...</h2>
