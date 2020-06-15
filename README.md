@@ -42,11 +42,11 @@
 
 <h2>A funny story</h2>
 
-<p>I will come up with smth</p>
+<p>I can't think of a funny story right now. My life is funny in general... but I am very forgetful. That's probably why I can't come up with a funny story now. That sometimes creates funny situations, and my friends sometimes make fun of this.</p>
 
 <h3>TL;DR (even smaller header, under funny story)</h3>
 
-<p>Summarise your funny story in one short sentence.</p>
-
+<p>I forgot my funny story, end of story.</p>
+</br>
 
 << previous || YOUR NAME || next >>
