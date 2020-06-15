@@ -1,11 +1,12 @@
-<h1>Kim Delbarre</h1>
+# Kim Delbarre
 
 <blockquote>
 	<p><em>Do something today that your future self will thank you for</em></p>
 
-<img src="/ProfPic15052020.jpg" alt="profile picture">
+![profile picture](/ProfPic15052020.jpg "profile picture")
 
-<h2>"I am mad but I'm magic"</h2>
+
+## "I am mad but I'm magic"
 
 <table>
   <tr>
@@ -23,11 +24,12 @@
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td><input type="checkbox" name="yes please" value="yes please" checked></td>
+    <td>- [x]</td>
   </tr>
 </table>
 
-<h2>Hobbies</h2>
+
+## Hobbies
 <ul>
 	<li>(Pole) dancing</li>
 	<li>Being creative<ul><li>Painting</li><li>Pottery</li>
@@ -36,15 +38,18 @@
 	<li>Being out in (wild) nature</li>
 </ul>
 
-<h2>You can always count on me when you want to buy me a drink</h2>
+
+## You can always count on me when you want to buy me a drink
 
 <p>I can make you laugh with silly jokes, but I can also do some pep talk</p>
 
-<h2>A funny story</h2>
+
+## A funny story
 
 <p>I can't think of a funny story right now... my life is funny in general, but I am very forgetful. That's probably why I can't come up with a funny story now. That sometimes creates funny situations, and my friends sometimes make fun of this.</p>
 
-<h3>TL;DR</h3>
+
+### TL;DR
 
 <p>I forgot my funny story, end of story.</p>
 
