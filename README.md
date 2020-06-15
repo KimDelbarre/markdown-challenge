@@ -18,12 +18,12 @@
  </tr>
  <tr>
     <th>Favorite food</th>
-    <td>spicy</td>
+    <td>spicy :hot_pepper:</td>
 
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td><input type="checkbox" name="yes please" value="yes please" checked></td>
+    <td>- [x]</td>
   </tr>
 </table>
 
@@ -32,8 +32,8 @@
 	<li>(Pole) dancing</li>
 	<li>Being creative<ul><li>Painting</li><li>Pottery</li>
 	</ul></li>
-	<li>Plant care in my urban jungle</li>
-	<li>Being out in (wild) nature</li>
+	<li>Plant care in my urban jungle :seedling:</li>
+	<li>Being out in (wild) nature </li>
 </ul>
 
 <h2>You can always count on me when you want to buy me a drink</h2>
