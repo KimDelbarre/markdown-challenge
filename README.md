@@ -46,8 +46,6 @@
 
 <p>I can't think of a funny story right now. My life is funny in general... but I am very forgetful. That's probably why I can't come up with a funny story now. Sometimes this creates funny situations, and my friends enjoy making fun of it.</p>
 
-<h3>TL;DR</h3>
-
 > ##### **I forgot my funny story, end of story**
 </br>
 
