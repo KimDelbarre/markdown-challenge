@@ -32,7 +32,7 @@
 	<li>(Pole) dancing</li>
 	<li>Being creative<ul><li>Painting</li><li>Pottery</li>
 	</ul></li>
-	<li>Plant care in my urban jungle :seedling:</li>
+	<li>Plant care in my urban jungle</li>
 	<li>Being out in (wild) nature </li>
 </ul>
 
