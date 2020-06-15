@@ -38,7 +38,7 @@
 
 <h2>You can always count on me when...</h2>
 <p></br>
-... you need something from the highest shelf</br>
+... you need something from a high shelf</br>
 ... you need some pep talk</br>
 ... you want to buy me a drink</p>
 
