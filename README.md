@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td><ul><li>[ ] Yes please</li><li>[x] No</li></ul>
+    <td><ul><li>[x] Yes please</li><li>[ ] No</li></ul>
   </tr>
 </table>
 
