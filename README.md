@@ -49,4 +49,4 @@
 <p>I forgot my funny story, end of story.</p>
 </br>
 
-<< <a href="#">previous</a> || YOUR NAME || <a href="#">next</a> >>
+<< <a href="#">previous</a> || KIM DELBARRE || <a href="#">next</a> >>
