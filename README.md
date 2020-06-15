@@ -18,12 +18,12 @@
  </tr>
  <tr>
     <th>Favorite food</th>
-    <td>spicy</td>
+    <td>spicy :hot_pepper:</td>
 
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td>\- [x]yes please</td>
+    <td>- [x]yes please</td>
   </tr>
 </table>
 
@@ -33,7 +33,7 @@
 	<li>Being creative<ul><li>Painting</li><li>Pottery</li>
 	</ul></li>
 	<li>Plant care in my urban jungle</li>
-	<li>Being out in (wild) nature</li>
+	<li>Being out in (wild) nature </li>
 </ul>
 
 <h2>You can always count on me when you want to buy me a drink</h2>
@@ -44,9 +44,10 @@
 
 <p>I can't think of a funny story right now. My life is funny in general... but I am very forgetful. That's probably why I can't come up with a funny story now. That sometimes creates funny situations, and my friends sometimes make fun of this.</p>
 
-<h3>TL;DR (even smaller header, under funny story)</h3>
+<h3>TL;DR</h3>
 
 <p>I forgot my funny story, end of story.</p>
 </br>
 
-<< previous || YOUR NAME || next >>
+<< <a href="#">previous</a> || KIM DELBARRE || <a href="#">next</a> >>
+
