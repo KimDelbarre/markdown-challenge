@@ -3,7 +3,7 @@
 <blockquote>
 	<p><em>Do something today that your future self will thank you for</em></p>
 
-<img src="https://github.com/KimDelbarre/markdown-challenge/blob/master/ProfPic15052020.jpg" width="350">
+<img src="https://github.com/KimDelbarre/markdown-challenge/blob/master/ProfPic15052020.jpg" width="300">
 
 <h2>"I am mad but I'm magic"</h2>
 
