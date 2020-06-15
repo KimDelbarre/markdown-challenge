@@ -1,12 +1,11 @@
-# Kim Delbarre
+<h1>Kim Delbarre</h1>
 
 <blockquote>
 	<p><em>Do something today that your future self will thank you for</em></p>
 
-![profile picture](/ProfPic15052020.jpg "profile picture")
+![profile picture](https://octodex.github.com/KimDelbarre/markdown-challenge/ProfPic15052020.jpg "profile picture")
 
-
-## "I am mad but I'm magic"
+<h2>"I am mad but I'm magic"</h2>
 
 <table>
   <tr>
@@ -24,12 +23,11 @@
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td>- [x]</td>
+    <td><input type="checkbox" name="yes please" value="yes please" checked></td>
   </tr>
 </table>
 
-
-## Hobbies
+<h2>Hobbies</h2>
 <ul>
 	<li>(Pole) dancing</li>
 	<li>Being creative<ul><li>Painting</li><li>Pottery</li>
@@ -38,21 +36,24 @@
 	<li>Being out in (wild) nature</li>
 </ul>
 
-
-## You can always count on me when you want to buy me a drink
+<h2>You can always count on me when you want to buy me a drink</h2>
 
 <p>I can make you laugh with silly jokes, but I can also do some pep talk</p>
 
+<h2>A funny story</h2>
 
-## A funny story
+<p>I will come up with smth</p>
 
-<p>I can't think of a funny story right now... my life is funny in general, but I am very forgetful. That's probably why I can't come up with a funny story now. That sometimes creates funny situations, and my friends sometimes make fun of this.</p>
+<h3>TL;DR (even smaller header, under funny story)</h3>
 
-
-### TL;DR
-
-<p>I forgot my funny story, end of story.</p>
+<p>Summarise your funny story in one short sentence.</p>
 
 
 
-<< previous || Kim Delbarre || next >>
+
+! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
+Organise yourself so it is easy to know who you should link to.
+
+The links should have the following structure:
+
+<< previous || YOUR NAME || next >>
