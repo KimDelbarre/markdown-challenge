@@ -51,5 +51,5 @@
 <p>I forgot my funny story, end of story.</p>
 </br>
 
-<< <a href="https://github.com/KarolinaDys/markdown-challenge/blob/master/README.md">previous</a> || KIM DELBARRE || <a href="https://github.com/LisaBaetsle/markdown-challenge/blob/master/README.md">next</a> >>
+<a href="https://github.com/KarolinaDys/markdown-challenge"><< previous</a> || KIM DELBARRE || <a href="https://github.com/LisaBaetsle/markdown-challenge/blob/master/README.md">next >></a>
 
