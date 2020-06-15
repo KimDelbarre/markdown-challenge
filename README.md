@@ -3,7 +3,7 @@
 <blockquote>
 	<p><em>Do something today that your future self will thank you for</em></p>
 
-![profile picture](https://github.com/KimDelbarre/markdown-challenge/ProfPic15052020.jpg "profile picture")
+![profile picture](/markdown-challenge/ProfPic15052020.jpg "profile picture")
 
 <h2>"I am mad but I'm magic"</h2>
 
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <th>Pinneapple on pizza</th>
-    <td><input type="checkbox" name="yes please" value="yes please" checked></td>
+    <td>\- [x]yes please</td>
   </tr>
 </table>
 
@@ -48,12 +48,5 @@
 
 <p>Summarise your funny story in one short sentence.</p>
 
-
-
-
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
 
 << previous || YOUR NAME || next >>
